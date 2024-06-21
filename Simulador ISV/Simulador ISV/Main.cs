@@ -15,11 +15,25 @@ namespace Simulador_ISV
         public Main()
         {
             InitializeComponent();
+            
         }
 
-        private void exitToolStripMenuItem_Click(object sender, EventArgs e)
+        private void Main_Load(object sender, EventArgs e)
         {
-            this.Close();
+
         }
+
+        
+
+        private void bt_S_ISV_Click(object sender, EventArgs e)
+        {
+
+            Simulador simuladorForm = new Simulador();
+            simuladorForm.ShowDialog();
+            this.Hide();
+        }
+
+
+
     }
 }

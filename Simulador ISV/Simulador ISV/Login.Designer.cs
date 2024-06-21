@@ -34,7 +34,6 @@
             tb_user = new TextBox();
             tb_pass = new TextBox();
             pictureBox3 = new PictureBox();
-            button1 = new Button();
             cb_remember = new CheckBox();
             btn_login = new Button();
             lkb_passRecu = new LinkLabel();
@@ -101,18 +100,6 @@
             pictureBox3.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox3.TabIndex = 5;
             pictureBox3.TabStop = false;
-            // 
-            // button1
-            // 
-            button1.BackColor = Color.Transparent;
-            button1.BackgroundImage = (Image)resources.GetObject("button1.BackgroundImage");
-            button1.BackgroundImageLayout = ImageLayout.Stretch;
-            button1.Location = new Point(12, 12);
-            button1.Name = "button1";
-            button1.Size = new Size(39, 39);
-            button1.TabIndex = 7;
-            button1.UseVisualStyleBackColor = false;
-            button1.Click += button1_Click;
             // 
             // cb_remember
             // 
@@ -245,15 +232,14 @@
             Controls.Add(lkb_passRecu);
             Controls.Add(btn_login);
             Controls.Add(cb_remember);
-            Controls.Add(button1);
             Controls.Add(tb_pass);
             Controls.Add(pictureBox3);
             Controls.Add(tb_user);
             Controls.Add(pictureBox2);
             Controls.Add(pictureBox1);
-            FormBorderStyle = FormBorderStyle.None;
+            FormBorderStyle = FormBorderStyle.FixedSingle;
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Login";
-            ShowIcon = false;
             Load += Login_Load;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
@@ -270,7 +256,6 @@
         private TextBox tb_user;
         private TextBox tb_pass;
         private PictureBox pictureBox3;
-        private Button button1;
         private CheckBox cb_remember;
         private Button btn_login;
         private LinkLabel lkb_passRecu;

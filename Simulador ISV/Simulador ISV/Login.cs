@@ -99,5 +99,16 @@ namespace Simulador_ISV
             tb_pass.Text = "Digite o seu username";
             tb_pass.ForeColor = SystemColors.GrayText; // Cor do texto cinza
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+
+            // Criar uma instância do formulário Main ou qualquer outro formulário desejado
+            Main formMain = new Main();
+
+            // Exibir o novo formulário
+            formMain.Show();
+        }
     }
 }
