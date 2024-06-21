@@ -1,0 +1,22 @@
+C:\Users\luisfigueiredo\source\repos\Simulador ISV\Simulador ISV\bin\Debug\net8.0-windows\Simulador ISV.exe
+C:\Users\luisfigueiredo\source\repos\Simulador ISV\Simulador ISV\bin\Debug\net8.0-windows\Simulador ISV.deps.json
+C:\Users\luisfigueiredo\source\repos\Simulador ISV\Simulador ISV\bin\Debug\net8.0-windows\Simulador ISV.runtimeconfig.json
+C:\Users\luisfigueiredo\source\repos\Simulador ISV\Simulador ISV\bin\Debug\net8.0-windows\Simulador ISV.dll
+C:\Users\luisfigueiredo\source\repos\Simulador ISV\Simulador ISV\bin\Debug\net8.0-windows\Simulador ISV.pdb
+C:\Users\luisfigueiredo\source\repos\Simulador ISV\Simulador ISV\obj\Debug\net8.0-windows\Simulador_ISV.Properties.Resources.resources
+C:\Users\luisfigueiredo\source\repos\Simulador ISV\Simulador ISV\obj\Debug\net8.0-windows\Simulador ISV.csproj.GenerateResource.cache
+C:\Users\luisfigueiredo\source\repos\Simulador ISV\Simulador ISV\obj\Debug\net8.0-windows\Simulador ISV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisfigueiredo\source\repos\Simulador ISV\Simulador ISV\obj\Debug\net8.0-windows\Simulador ISV.AssemblyInfoInputs.cache
+C:\Users\luisfigueiredo\source\repos\Simulador ISV\Simulador ISV\obj\Debug\net8.0-windows\Simulador ISV.AssemblyInfo.cs
+C:\Users\luisfigueiredo\source\repos\Simulador ISV\Simulador ISV\obj\Debug\net8.0-windows\Simulador ISV.csproj.CoreCompileInputs.cache
+C:\Users\luisfigueiredo\source\repos\Simulador ISV\Simulador ISV\obj\Debug\net8.0-windows\Simulador ISV.dll
+C:\Users\luisfigueiredo\source\repos\Simulador ISV\Simulador ISV\obj\Debug\net8.0-windows\refint\Simulador ISV.dll
+C:\Users\luisfigueiredo\source\repos\Simulador ISV\Simulador ISV\obj\Debug\net8.0-windows\Simulador ISV.pdb
+C:\Users\luisfigueiredo\source\repos\Simulador ISV\Simulador ISV\obj\Debug\net8.0-windows\Simulador ISV.genruntimeconfig.cache
+C:\Users\luisfigueiredo\source\repos\Simulador ISV\Simulador ISV\obj\Debug\net8.0-windows\ref\Simulador ISV.dll
+C:\Users\luisfigueiredo\source\repos\Simulador ISV\Simulador ISV\obj\Debug\net8.0-windows\Simulador_ISV.Login.resources
+C:\Users\luisfigueiredo\source\repos\Simulador ISV\Simulador ISV\obj\Debug\net8.0-windows\Simulador_ISV.Register.resources
+C:\Users\luisfigueiredo\source\repos\Simulador ISV\Simulador ISV\bin\Debug\net8.0-windows\Simulador ISV.dll.config
+C:\Users\luisfigueiredo\source\repos\Simulador ISV\Simulador ISV\obj\Debug\net8.0-windows\Simulador_ISV.Recuperar_PassW.resources
+C:\Users\luisfigueiredo\source\repos\Simulador ISV\Simulador ISV\obj\Debug\net8.0-windows\Simulador_ISV.Main.resources
+C:\Users\luisfigueiredo\source\repos\Simulador ISV\Simulador ISV\obj\Debug\net8.0-windows\Simulador ISV.sourcelink.json
