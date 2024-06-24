@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Simulador ISV")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34696383ad8159fba18a53cea46deb606d76b26b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fefaa60598a4db376e531889fcebd7e465d5d62d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Simulador ISV")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Simulador ISV")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

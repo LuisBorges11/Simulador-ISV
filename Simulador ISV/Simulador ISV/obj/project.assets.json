@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luisfigueiredo\\source\\repos\\Simulador ISV\\Simulador ISV\\Simulador ISV.csproj",
+      "projectUniqueName": "C:\\Users\\luisfigueiredo\\Source\\Repos\\LuisBorges11\\Simulador-ISV\\Simulador ISV\\Simulador ISV\\Simulador ISV.csproj",
       "projectName": "Simulador ISV",
-      "projectPath": "C:\\Users\\luisfigueiredo\\source\\repos\\Simulador ISV\\Simulador ISV\\Simulador ISV.csproj",
+      "projectPath": "C:\\Users\\luisfigueiredo\\Source\\Repos\\LuisBorges11\\Simulador-ISV\\Simulador ISV\\Simulador ISV\\Simulador ISV.csproj",
       "packagesPath": "C:\\Users\\luisfigueiredo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luisfigueiredo\\source\\repos\\Simulador ISV\\Simulador ISV\\obj\\",
+      "outputPath": "C:\\Users\\luisfigueiredo\\Source\\Repos\\LuisBorges11\\Simulador-ISV\\Simulador ISV\\Simulador ISV\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages"
