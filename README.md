@@ -49,5 +49,5 @@ Este projeto está licenciado sob a MIT License. Veja o arquivo [LICENSE](LICENS
 
 Para mais informações, entre em contato:
 
-- Email: luis.borges@example.com
+- Email: filipefigueiredo39@gmail.com
 - LinkedIn: [Luis Borges](https://www.linkedin.com/in/luis-figueiredo-232897258)
